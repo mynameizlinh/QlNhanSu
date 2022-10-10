@@ -1,0 +1,13 @@
+C:\Users\Linh\source\repos\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+C:\Users\Linh\source\repos\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.exe
+C:\Users\Linh\source\repos\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.pdb
+C:\Users\Linh\source\repos\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.csproj.AssemblyReference.cache
+C:\Users\Linh\source\repos\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Linh\source\repos\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmLogin.resources
+C:\Users\Linh\source\repos\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.Properties.Resources.resources
+C:\Users\Linh\source\repos\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.csproj.GenerateResource.cache
+C:\Users\Linh\source\repos\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\Linh\source\repos\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.exe
+C:\Users\Linh\source\repos\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.pdb
+C:\Users\Linh\source\repos\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmMain.resources
+C:\Users\Linh\source\repos\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmChucVu.resources
